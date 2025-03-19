@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "MyApi/1.0.0": {
+      "InnovexGlobal/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "8.0.4",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "MyApi.dll": {}
+          "InnovexGlobal.dll": {}
         }
       },
       "Microsoft.AspNetCore.OpenApi/8.0.4": {
@@ -76,7 +76,7 @@
     }
   },
   "libraries": {
-    "MyApi/1.0.0": {
+    "InnovexGlobal/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InnovexGlobal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a46da215a4bc9c0670acc1167b8b4ed2cb59fa7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc8448bef5025a1953b3df4cf12296076e7fa072")]
 [assembly: System.Reflection.AssemblyProductAttribute("InnovexGlobal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InnovexGlobal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

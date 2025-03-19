@@ -460,26 +460,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GMT\\.nuget\\packages\\": {}
+    "/Users/longnt25/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\InnovexGlobal.csproj",
+      "projectUniqueName": "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/InnovexGlobal.csproj",
       "projectName": "InnovexGlobal",
-      "projectPath": "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\InnovexGlobal.csproj",
-      "packagesPath": "C:\\Users\\GMT\\.nuget\\packages\\",
-      "outputPath": "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\obj\\",
+      "projectPath": "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/InnovexGlobal.csproj",
+      "packagesPath": "/Users/longnt25/.nuget/packages/",
+      "outputPath": "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/longnt25/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -492,11 +490,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -531,7 +524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/longnt25/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
