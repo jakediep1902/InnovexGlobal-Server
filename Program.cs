@@ -25,7 +25,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Bật chuyển hướng HTTPS (có thể tắt nếu không cần)
+// Bật chuyển hướng HTTPS (có thể tắt nếu không cần)//
 //app.UseHttpsRedirection();
 if (!app.Environment.IsDevelopment())
 {
