@@ -26,7 +26,12 @@ if (app.Environment.IsDevelopment())
 }
 
 // Bật chuyển hướng HTTPS (có thể tắt nếu không cần)
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
+if (!app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
+
 
 // Danh sách các điều kiện thời tiết mẫu
 var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
