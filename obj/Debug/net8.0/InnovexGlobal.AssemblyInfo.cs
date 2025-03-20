@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InnovexGlobal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eed95e7d84045b3ff07a2cd767f04a8fb97de2a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+479cc1c799fdb1f2b058210e1b7421803aab7ad1")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("InnovexGlobal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InnovexGlobal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
