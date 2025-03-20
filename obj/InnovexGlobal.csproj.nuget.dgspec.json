@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/InnovexGlobal.csproj": {}
+    "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\InnovexGlobal.csproj": {}
   },
   "projects": {
-    "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/InnovexGlobal.csproj": {
+    "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\InnovexGlobal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/InnovexGlobal.csproj",
+        "projectUniqueName": "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\InnovexGlobal.csproj",
         "projectName": "InnovexGlobal",
-        "projectPath": "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/InnovexGlobal.csproj",
-        "packagesPath": "/Users/longnt25/.nuget/packages/",
-        "outputPath": "/Users/longnt25/RiderProjects/innovexglobal/InnovexGlobal-Server/obj/",
+        "projectPath": "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\InnovexGlobal.csproj",
+        "packagesPath": "C:\\Users\\GMT\\.nuget\\packages\\",
+        "outputPath": "E:\\Web\\InnovexGlobal\\Backend\\Server\\InnovexGlobal-Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/longnt25/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\GMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -44,7 +51,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -66,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/longnt25/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
